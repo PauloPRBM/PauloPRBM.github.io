@@ -1,14 +1,12 @@
-# **PORTIFÓLIO VINICIUS NUNES - 2022**
+# **PORTIFÓLIO Paulo Mendes - 2024**
 
 ![](./img/DESKTOP.png)
 
-## [Clique aqui](https://viniciusnunes137.github.io/portifolio/) para acessar o site
+## [Clique aqui]([https://github.com/PauloPRBM/PauloPRBM.github.io]) para acessar o site
 
 ## **SOBRE**
 
 - Site tipo do portifólio, onde foi construído com o intuito de divulgar a minha evolução como desenvolvedor web.
-
-- - Foi proposto esse projeto pelo professor de Linguagem de Marcação com a finalidade de replicar um projeto que desenvolvemos no FIGMA com a finalidade de compreender a @media para responsividade.
 
 
 
@@ -35,5 +33,5 @@
 
 ## **AUTOR**
 
-- [VINICIUS NUNES](https://github.com/VINICIUSNUNES137)
+- [Paulo Mendes](https://github.com/PauloPRBM))
 
